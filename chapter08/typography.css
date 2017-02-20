@@ -1,0 +1,13 @@
+body {
+	font-family : "Helvetica","Arial",sans-serief;
+	font-size : 15pt;
+}
+
+h1 {
+	font-weight : bold;
+}
+abbr {
+	text-decoration : none;
+	border : 0;
+	font-style : normal;
+}
